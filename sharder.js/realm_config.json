@@ -1,0 +1,8 @@
+{
+    "app_id": "application-1-jtuwp",
+    "config_version": 20210101,
+    "name": "Application-1",
+    "location": "IN-MB",
+    "provider_region": "gcp-asia-south1",
+    "deployment_model": "LOCAL"
+}

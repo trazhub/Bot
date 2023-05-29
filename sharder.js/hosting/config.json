@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "custom_domain": "trazhub.me",
+    "app_default_domain": "application-1-jtuwp.mongodbstitch.com",
+    "default_error_path": "",
+    "default_error_code": ""
+}
